@@ -1,0 +1,2 @@
+# HuCaPython
+Study Python basic.
